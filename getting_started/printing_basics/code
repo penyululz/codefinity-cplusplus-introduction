@@ -1,0 +1,7 @@
+#include <___>
+
+int main() 
+{
+    // Output your message:
+    ___::___ << ___;
+}
