@@ -1,7 +1,7 @@
-#include <___>
+#include <iostream>
 
 int main() 
 {
     // Output your message:
-    ___::___ << ___;
+    std::cout << "HelloWorld";
 }
